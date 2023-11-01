@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WAqar Ahmed"
+title                    : "Waqar Ahmed"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Waqar Ahmed"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Research Associate at the University of Manchester"
   location         : "Manchester"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Waqar54"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@waqarahmed_88"
+  twitter          : "@Waqar_Ahmed88"
   vine             :
   weibo            :
   xing             :

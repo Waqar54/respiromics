@@ -5,14 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-[Download paper here](http://waqar54.github.io/respiromics/files/Volatilomes of human infection 2023.pdf)
+**Research Articles**
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+**Review Articles**
 
-{% include base_path %}
+[Volatilomes of human infection, 2023](http://waqar54.github.io/respiromics/files/Volatilomes of human infection 2023.pdf)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**Book Chapters**

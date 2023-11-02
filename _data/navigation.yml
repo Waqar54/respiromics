@@ -2,18 +2,15 @@
 main:
   - title: "Publications"
     url: /publications/ 
-
-  - title: "Teaching"
-    url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Research"
+    url: /Research/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Code"
+    url: /Code/
+    
+  - title: "Lab"
+    url: /Lab/
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/

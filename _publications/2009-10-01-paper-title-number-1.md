@@ -1,7 +1,7 @@
 ---
 title: "Volatilomes of human infection"
 collection: publications
-permalink: /files/Volatilomes of human infection 2023.pdf
+permalink: http://waqar54.github.io/respiromics/files/Volatilomes of human infection 2023.pdf
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2013-10-01
 venue: 'Journal 1'
